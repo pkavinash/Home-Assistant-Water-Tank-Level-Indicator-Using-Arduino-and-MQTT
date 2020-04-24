@@ -90,7 +90,7 @@ mqtt:
  - Go to the <code>secret.h</code> tab. Here you change Wifi settings, server settings and few other parameters as per your project requirement.
  
 ## Screenshot
-<img src="/Images/1.jpg" width="" height="" style="max-width:100%;"></br>
+<img src="/Images/1.png" width="" height="" style="max-width:100%;"></br>
 <img src="/Images/2.jpg" width="" height="" style="max-width:100%;"></br>
 <img src="/Images/3.png" width="350" height="" style="max-width:100%;">&nbsp; &nbsp; &nbsp; &nbsp; 
 <img src="/Images/4.png" width="350" height="" style="max-width:100%;">&nbsp; &nbsp; &nbsp; &nbsp;
